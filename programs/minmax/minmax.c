@@ -16,4 +16,5 @@ int main(int argc, char* argv[]) {
 
 	printf("min: %d\n", stats_find_min(array, size));
 	printf("max: %d\n", stats_find_max(array, size));
+	printf("kappa\n");
 }
